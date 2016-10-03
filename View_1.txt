@@ -1,2 +1,4 @@
 Simple test.
 Simple test.
+
+Samle text.
